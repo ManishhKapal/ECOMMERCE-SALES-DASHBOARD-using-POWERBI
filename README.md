@@ -6,7 +6,7 @@ This Power BI project presents a visually engaging and interactive **E-commerce 
 
 ## 🖼️ Dashboard Screenshot
 
-![E-commerce Sales Dashboard](./dashboard.png)
+![E-commerce Sales Dashboard](./ss.png)
 
 ---
 
