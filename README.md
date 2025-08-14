@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales Dashboard – Power BI
+# 📊 E-Commerce Sales Dashboard – Power BI
 
 This Power BI project presents a visually engaging and interactive **E-commerce Sales Dashboard** designed to analyze sales performance across categories, time periods, and payment modes. It helps stakeholders gain insights into key metrics like profit, quantity, and average order value (AOV).
 
